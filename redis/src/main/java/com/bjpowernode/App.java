@@ -8,7 +8,7 @@ public class App
     {
 
         Jedis jedis=new Jedis("127.0.0.1",6379);
-        //删除所有db
+        //删除所有db2
         jedis.flushAll();
         jedis.set("str1","aaa");
         String str1=jedis.get("str1");
