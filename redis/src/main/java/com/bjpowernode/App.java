@@ -15,6 +15,7 @@ public class App
         System.out.println(str1);
         jedis.append("str1","bbb");
         String str2=jedis.get("str1");
+
         System.out.println(str2);
 
     }
