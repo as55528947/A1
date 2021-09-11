@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5261ac26-efb8-4e66-ab78-513875dcc078" name="Default" comment="5">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bjpowernode/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bjpowernode/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="5261ac26-efb8-4e66-ab78-513875dcc078" name="Default" comment="5" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,8 +98,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="432" />
-    <option name="y" value="61" />
+    <option name="x" value="422" />
+    <option name="y" value="5" />
     <option name="width" value="1485" />
     <option name="height" value="960" />
   </component>
@@ -282,7 +280,7 @@
       <updated>1607415772774</updated>
       <workItem from="1607415775915" duration="1770000" />
       <workItem from="1631279365261" duration="17000" />
-      <workItem from="1631279593085" duration="1436000" />
+      <workItem from="1631279593085" duration="1584000" />
     </task>
     <task id="LOCAL-00001" summary="3">
       <created>1631282143333</created>
@@ -298,14 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631282230994</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5">
+      <created>1631282376401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631282376401</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3223000" />
+    <option name="totallyTimeSpent" value="3371000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="432" y="61" width="1485" height="960" extended-state="0" />
+    <frame x="359" y="68" width="1485" height="960" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16350877" />
@@ -393,6 +398,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
         </state>
       </provider>
     </entry>
